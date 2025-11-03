@@ -45,7 +45,7 @@ Os valores foram gerados dentro de faixas plausíveis para solos agrícolas bras
 
 ## 🧮 Manipulação e Análise de Dados
 
-### Extração dos dados e criação do banco no Oracle
+### 🔍 Extração dos dados e criação do banco no Oracle
 
 Os valores foram gerados dentro de faixas plausíveis para solos agrícolas brasileiros, considerando referências técnicas e publicações nacionais sobre as culturas selecionadas.
 
@@ -106,14 +106,12 @@ Análise de correlação de **Pearson** entre irrigação e nutrientes (N, P, K)
 
 ## 🧩 Conclusão
 
-A análise evidencia a importância de compreender a interação entre irrigação e nutrição do solo.
-Os resultados obtidos podem subsidiar **ajustes de manejo hídrico e nutricional**, promovendo uso racional de água e insumos.
+O Oracle SQL Developer permite explorar e analisar dados de forma rápida e confiável. As análises estatísticas realizadas demonstram seu potencial para gerar insights precisos, reforçando sua importância como ferramenta estratégica para a tomada de decisões baseada em dados.
 
 ---
 
 ## 💻 Tecnologias Utilizadas
 
 * **Oracle SQL Developer**
-* **Wokwi (simulação de sensores)**
 * **CSV Dataset (sensor_solo.csv)**
 
